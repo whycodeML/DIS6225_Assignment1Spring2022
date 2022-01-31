@@ -133,6 +133,11 @@ namespace DIS_Assignmnet1_SPRING_2022
 
         }
 
+        /* Q1 - Self Reflection
+         * Time - 15 minsThis problem took around 15 mins of time
+         * Learning and Self reflection - We should carefully check the output, I was ignoring the case senstivness in the output.
+         */
+
         /* 
         <summary>
        Given two string arrays word1 and word2, return true if the two arrays represent the same string, and false otherwise.
@@ -176,6 +181,12 @@ namespace DIS_Assignmnet1_SPRING_2022
             }
 
         }
+
+        /* Q2 - Self Reflection
+         * Time - This problem took around 5 mins of time
+         * Learning and Self reflection - There is always easy way to do things.
+         */
+
         /*
         <summary> 
        You are given an integer array bull_bucks. The unique elements of an array are the elements that appear exactly once in the array.
@@ -241,6 +252,12 @@ namespace DIS_Assignmnet1_SPRING_2022
 
             return sum;
         }
+
+        /* Q3 - Self Reflection
+         * Time - This problem took around 20 mins of time
+         * Learning and Self reflection - Disctionaries can be very useful and time efficient.
+         */
+
         /*
 
         <summary>
@@ -302,6 +319,10 @@ namespace DIS_Assignmnet1_SPRING_2022
 
         }
 
+        /* Q4 - Self Reflection
+         * Time - This problem took around 20 mins of time
+         * Learning and Self reflection - Handling dictionaries in c can be challenging sometimes, need to do more handson.
+         */
 
 
         /*
@@ -363,6 +384,10 @@ namespace DIS_Assignmnet1_SPRING_2022
             }
 
         }
+        /* Q5 - Self Reflection
+         * Time - This problem took around 30 mins of time
+         * Learning and Self reflection - Learned new technique of Regex in C, rest other things were easy to implement.
+         */
 
         /*
          <summary>
@@ -433,5 +458,9 @@ namespace DIS_Assignmnet1_SPRING_2022
             }
 
         }
+        /* Q6 - Self Reflection
+         * Time - This problem took around 30 mins of time
+         * Learning and Self reflection - Again used Regex here which was helpful as I learned this in Q5, rest other things were easy to implement.
+         */
     }
 }
